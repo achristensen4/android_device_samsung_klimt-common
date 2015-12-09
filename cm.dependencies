@@ -1,3 +1,11 @@
 [
+    {
+        "repository": "android_kernel_samsung_klimtwifi",
+        "target_path": "kernel/samsung/klimtwifi"
+    },
+    {
+        "repository": "android_device_samsung_exynos5420-common",
+        "target_path": "device/samsung/exynos5420-common"
+    }
 ]
 
